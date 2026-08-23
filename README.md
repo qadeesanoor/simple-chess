@@ -44,5 +44,7 @@ The AI uses a Minimax algorithm with Alpha-Beta pruning, searching 3 plies deep.
 
 ## File Structure
 ├── index.html # Page structure
+
 ├── style.css # Board and UI styling
+
 └── script.js # Game logic, move validation, AI
